@@ -3,13 +3,13 @@ End-to-end analysis of Walmart sales data using Python, MySQL . Cleaned and tran
 
 **Tech Stack:** Python • Pandas • SQL • MySQL 
 
-## 🔍 Overview
+## Overview
 
 An end-to-end data analysis project focused on deriving actionable insights from Walmart’s transactional sales data. This project highlights the ability to transform raw data into meaningful outcomes through systematic data processing, database integration, and business-focused querying.
 
 ---
 
-## ✅ Objectives
+## Objectives
 
 * Clean and preprocess transactional sales data using Python
 * Engineer calculated fields such as total transaction value
@@ -19,7 +19,7 @@ An end-to-end data analysis project focused on deriving actionable insights from
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 * **Languages:** Python, SQL
 * **Libraries:** pandas, numpy
@@ -29,7 +29,7 @@ An end-to-end data analysis project focused on deriving actionable insights from
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 walmart-sales-analysis/
@@ -43,7 +43,7 @@ walmart-sales-analysis/
 
 ---
 
-## 🛠️ Workflow Summary
+## Workflow Summary
 
 ### 1. Data Preparation
 
@@ -69,7 +69,7 @@ Executed well-structured SQL queries to analyze:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * E-wallets had the highest transaction count
 * Specific categories consistently outperformed others in revenue
@@ -78,7 +78,7 @@ Executed well-structured SQL queries to analyze:
 
 ---
 
-## 🚀 Potential Enhancements
+## Potential Enhancements
 
 * Integrate a visualization layer using Power BI or Tableau
 * Automate pipeline for real-time data ingestion
@@ -86,13 +86,13 @@ Executed well-structured SQL queries to analyze:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 * **Dataset**: Kaggle – Walmart Sales Dataset
 * **Conceptual Inspiration**: Real-world business challenges in retail and operations analytics
